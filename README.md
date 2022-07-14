@@ -1,1 +1,1 @@
-# Mitigating-risk-by-forecasting-Power-outage-severity-
+# Mitigating-risk-by-forecasting-power-outage-severity
